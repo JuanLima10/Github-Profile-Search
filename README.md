@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 </br>
 
-> Status: Finalizado!
+> Status: Finished!
 
 ### GitHub api Profile search.
 
