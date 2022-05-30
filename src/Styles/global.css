@@ -1,0 +1,30 @@
+html{
+    margin: 0;
+    scroll-behavior: smooth;
+    font-family: 'Inter', sans-serif;
+}
+
+body{
+    background: #13293D;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+::placeholder {
+    color: #E8F1F2;
+    opacity: 0.6;
+}
+
+@media screen and (max-width: 405px) {
+    html{
+      font-size: 90%;
+    }
+}
+  
+@media screen and (max-width: 370px) {
+    html{
+      font-size: 74%;
+    }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
