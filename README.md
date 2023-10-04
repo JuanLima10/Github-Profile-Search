@@ -10,16 +10,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 > Status: Finished!
 
-### GitHub api Profile search.
+## 💻 Running the app
+```bash
+#Install dependencies
+$ npm install
+```
+
+```bash
+$ npm run dev
+```
 
 ## 🧪 Technologies:
 
 + React JS
 + JavaScript
 + Styled Components
-
-## 🧾 My Contacts:
-
-* Linkedin: <a href="https://www.linkedin.com/in/juan-lima-297b9a1b4/">https://www.linkedin.com/in/juan-lima-297b9a1b4/</a> ;
-* Email: <a href="malito:juanaraujolima17@gmail.com">juanaraujolima17@gmail.com</a> ;
-* Site: <a href="https://juanlima10.github.io/meuPort/">https://juanlima10.github.io/meuPort/</a>
